@@ -11,3 +11,4 @@ hello yx!hello git!
 hello yx!hello git!
 hello yx!hello git! master test
 hello yx!hello git!
+hello yx!hello git! hot-fix test
